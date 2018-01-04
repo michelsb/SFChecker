@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1515081579320" name="duplicate:http://cin.ufpe.br/msb6/ontologies/2017/6/nfv-im.owl" uri="onto-nfv-with-topo-uc5.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1515081579320" name="duplicate:http://cin.ufpe.br/msb6/ontologies/2017/6/nfv-im.owl" uri="onto-nfv-with-topo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1515081579320" name="duplicate:http://cin.ufpe.br/msb6/ontologies/2017/6/nfv-im.owl" uri="onto-nfv-with-topo-uc3.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1515081579320" name="duplicate:http://cin.ufpe.br/msb6/ontologies/2017/6/nfv-im.owl" uri="onto-nfv-with-topo-uc1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1515081579320" name="duplicate:http://cin.ufpe.br/msb6/ontologies/2017/6/nfv-im.owl" uri="onto-nfv-with-topo-uc4.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1515081579320" name="duplicate:http://cin.ufpe.br/msb6/ontologies/2017/6/nfv-im.owl" uri="onto-nfv-with-topo-uc2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1515081579320" name="duplicate:http://cin.ufpe.br/msb6/ontologies/2017/6/nfv-im.owl" uri="onto-nfv.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1515081579320" name="shadowed:http://cin.ufpe.br/msb6/ontologies/2017/6/nfv-im.owl" uri="backup/onto-nfv.owl"/>
+    </group>
+</catalog>
