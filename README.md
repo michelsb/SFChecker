@@ -1,4 +1,4 @@
-# SFChecker: A Policy-based Semantic Verification System \\ for SFC Requests in NFV Environments
+# SFChecker: A Policy-based Semantic Verification System for SFC Requests in NFV Environments
 
 - The Onto-NFV is avalible in ontology directory. There are seven (7) files regarding Onto-NFV:
 
